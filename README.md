@@ -6,8 +6,9 @@
 ```java
 /**
  * MTech Data Engineering, IIIT Allahabad (2025-27)
+ * Placement Coordinator, Batch 2025
  */
-public class MadhavKamble implements DataEngineer, SDE , {
+public class MadhavKamble implements DataEngineer, ResearchAssistant {
 
     private final String location   = "Prayagraj, India";
     private final String[] focus    = {"Data Engineering", "GenAI/Agentic AI", "SDE"};
@@ -149,7 +150,11 @@ First open-source Python implementation of MIGA (Figueroa-García et al., *Infor
 ## 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/MadhavKamble/MadhavKamble/output/github-contribution-grid-snake.svg" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MadhavKamble/MadhavKamble/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MadhavKamble/MadhavKamble/output/github-contribution-grid-snake.svg" />
+    <img alt="contribution snake" src="https://raw.githubusercontent.com/MadhavKamble/MadhavKamble/output/github-contribution-grid-snake.svg" />
+  </picture>
 </p>
 
 <br>
@@ -157,9 +162,27 @@ First open-source Python implementation of MIGA (Figueroa-García et al., *Infor
 ## 📊 GitHub Stats
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=MadhavKamble&show_icons=true&theme=default&hide_border=true" height="165"/>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=MadhavKamble&show_icons=true&theme=default&hide_border=true" height="165"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=MadhavKamble&hide_border=true" height="165"/>
 </p>
+
+<br>
+
+## 🎲 Beyond the Code
+
+```bash
+$ whoami
+madhav — mostly caffeine and constant integration, occasionally sleep
+
+$ cat /etc/interests
+🏎️  F1 — will debate strategy calls at 1am
+🏏  Cricket — silent during a chase, unbearable after
+🤖  Serial Claude consumer — if it can be asked, I've asked it
+🥦  Vegetarian — don't ask about the mess food
+
+$ ./run_forever.sh
+[perpetually] compiling code, watching qualifying, arguing with an LLM until it agrees with me
+```
 
 <br>
 
@@ -171,3 +194,5 @@ First open-source Python implementation of MIGA (Figueroa-García et al., *Infor
   <a href="https://madhav-kamble.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-000000?style=flat&logo=vercel&logoColor=white"/></a>
   <a href="mailto:madhavukamble@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white"/></a>
 </p>
+<br>
+<p align="center"><i>compiled with 0 errors, 12 existential crises.</i></p>
