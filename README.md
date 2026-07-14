@@ -97,13 +97,44 @@ First open-source Python implementation of MIGA (Figueroa-García et al., *Infor
   <img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white" />
   <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white" />
   <img src="https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white" />
   <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white" />
 </p>
 
 **Databases**
 <p align="left">
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/pgvector-336791?style=flat&logo=postgresql&logoColor=white" />
+</p>
+
+**Data Engineering**
+<p align="left">
+  <img src="https://img.shields.io/badge/Apache_Kafka-231F20?style=flat&logo=apachekafka&logoColor=white" />
+  <img src="https://img.shields.io/badge/Apache_Airflow-017CEE?style=flat&logo=apacheairflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/PySpark-E25A1C?style=flat&logo=apachespark&logoColor=white" />
+  <img src="https://img.shields.io/badge/Delta_Lake-00ADD8?style=flat&logo=databricks&logoColor=white" />
+  <img src="https://img.shields.io/badge/dbt-FF694B?style=flat&logo=dbt&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostGIS-336791?style=flat&logo=postgresql&logoColor=white" />
+</p>
+
+**GenAI & ML Engineering**
+<p align="left">
+  <img src="https://img.shields.io/badge/Groq-F55036?style=flat&logo=groq&logoColor=white" />
+  <img src="https://img.shields.io/badge/Llama_3.3-0467DF?style=flat&logo=meta&logoColor=white" />
+  <img src="https://img.shields.io/badge/RAG-4B8BBE?style=flat&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/XGBoost-EC0000?style=flat&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/MLflow-0194E2?style=flat&logo=mlflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white" />
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white" />
+</p>
+
+**Research & Optimization**
+<p align="left">
+  <img src="https://img.shields.io/badge/Genetic_Algorithms-6A1B9A?style=flat&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/NSGA--II-6A1B9A?style=flat&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/SHAP-8E44AD?style=flat&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Wilcoxon_Testing-8E44AD?style=flat&logo=python&logoColor=white" />
 </p>
 
 **Data & ML**
@@ -194,5 +225,7 @@ $ ./run_forever.sh
   <a href="https://madhav-kamble.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-000000?style=flat&logo=vercel&logoColor=white"/></a>
   <a href="mailto:madhavukamble@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white"/></a>
 </p>
+
 <br>
+
 <p align="center"><i>compiled with 0 errors, 12 existential crises.</i></p>
